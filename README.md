@@ -30,3 +30,6 @@ Techniques: Pivot Table, Power Query, DAX
 Statistics: Mean, Median, Sum, Count, Average, Percentile
 
 Visuals: StackedBar, Boxplot, Funnels, PieCharts.
+
+Data source: kaggle.com
+
