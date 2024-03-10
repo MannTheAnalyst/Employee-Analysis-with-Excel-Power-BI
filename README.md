@@ -23,7 +23,7 @@ Do we to increase X or decrease X?
 
 Where should we put our pilot program?
 
-Tools: Excel and Power Point
+Tools: Excel Power BI and Power Point
 
 Techniques: Pivot Table, Power Query, DAX
 
